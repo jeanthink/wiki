@@ -16,12 +16,12 @@
   "license": "MIT",
   "dependencies": {
     "@aaromp/gatsby-plugin-plausible": "^1.0.0",
-    "gatsby": "^4.4.0",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-marka": "^1.2.0",
     "gatsby-plugin-no-sourcemaps": "^3.13.0",
     "gatsby-remark-prismjs": "^5.10.0",
     "gatsby-theme-kb": "^0.9.2",
     "prism-themes": "^1.8.0",
-    "prismjs": "^1.27.0"
+    "prismjs": "^1.30.0"
   }
 }
